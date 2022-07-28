@@ -1,12 +1,14 @@
 # DocoShare - 免费节点分享站
-
+### 更新时间：22 07 28
+### **提示：本项目仅作节点整理，不提供稳定服务，如有侵权请联系删除**
 ## 频道地址
 [@DocoShare](@DocoShare)
 ## 订阅地址
-|类型|订阅地址|
-|-|-|
-|通用订阅|[点击进入](https://raw.fastgit.org/FGCl0ud/Share/Sub/Sub/SUB)|content3|
-|Clash订阅|暂无|
+
+|订阅类型|来源|地址|
+|-----|-----|-----|
+|Clash|@mfjdpd|[点击获取](https://github.com/FGCl0ud/Share/raw/Sub/Sub/%E3%80%90220728%E3%80%91%E8%8A%82%E7%82%B9136%E4%B8%AA.yaml)|
+|     |     |     |
 
 ## 节点来源
 |类型|来源|地址|
@@ -16,9 +18,10 @@
 |TG频道|@freeyule|[点击进入](t.me/freeyule)|
 |TG频道|@mftizi|[点击进入](t.me/mftizi)|
 |TG频道|@ShareCentre|[点击进入](t.me/ShareCentre)|
+|TG频道|@bdpd8|[点击进入](https://t.me/bdpd8)|
 |机场|暂不透露|无|
 
 ## 节点测速来源
 |名称|地址|
 |-|-|
-|品云{广州腾讯云-1Gbps）|[点击进入](http://gz.cloudtest.cc/)|
+|~~品云{广州腾讯云-1Gbps~~）|[点击进入](http://gz.cloudtest.cc/)|
